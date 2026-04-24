@@ -1,0 +1,12 @@
+body{
+    background-color: brown;
+    color: white;
+    margin: 0;
+}
+
+.parent{
+    /* width: 80%; */
+    background-color: blue;
+    padding-left: 20%;
+}
+
