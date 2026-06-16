@@ -7,6 +7,9 @@ body{
 .parent{
     /* width: 80%; */
     background-color: blue;
-    padding-left: 20%;
+    padding: 50;
+    margin:0, auto;
+    width: 50%;
+    
 }
 
